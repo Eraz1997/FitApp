@@ -52,6 +52,7 @@ deprecated-type=warn
 unsafe-getters-setters=warn
 unnecessary-invariant=warn
 signature-verification-failure=warn
+untyped-import=off
 
 [strict]
 deprecated-type
